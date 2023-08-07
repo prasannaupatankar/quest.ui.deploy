@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkQuest=self.webpackChunkQuest||[]).push([[84633],{84633:(t,e,s)=>{s.r(e),s.d(e,{default:()=>n});const u=void 0,n=[[["yarim tun","tush payti","ertalab","kunduzi","kechqurun","kechasi"],u,u],u,["00:00","12:00",["06:00","11:00"],["11:00","18:00"],["18:00","22:00"],["22:00","06:00"]]]}}]);

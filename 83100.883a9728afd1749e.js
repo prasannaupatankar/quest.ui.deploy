@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkQuest=self.webpackChunkQuest||[]).push([[83100],{83100:(n,e,s)=>{s.r(e),s.d(e,{default:()=>u});const a=void 0,u=[[["tengah malam","tengah hari","pagi","siang","sore","malam"],a,a],a,["00:00","12:00",["00:00","10:00"],["10:00","15:00"],["15:00","18:00"],["18:00","24:00"]]]}}]);
